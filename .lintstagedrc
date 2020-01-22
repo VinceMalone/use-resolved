@@ -1,0 +1,17 @@
+{
+  "*.{json,md}": [
+    "prettier --write",
+    "git add"
+  ],
+  "*.{js}": [
+    "eslint --fix",
+    "prettier --write",
+    "git add"
+  ],
+  "*.{ts,tsx}": [
+    "tsc --noEmit",
+    "eslint --fix",
+    "prettier --write",
+    "git add"
+  ]
+}
