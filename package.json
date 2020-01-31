@@ -26,8 +26,8 @@
   },
   "homepage": "https://github.com/VinceMalone/use-resolved/#readme",
   "engines": {
-    "node": "^12.14.1",
-    "yarn": "^1.21.1"
+    "node": ">=10.x",
+    "yarn": "1.x"
   },
   "peerDependencies": {
     "react": "^16.9.0"
