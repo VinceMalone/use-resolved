@@ -1,6 +1,6 @@
 {
   "name": "use-resolved",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "React hook for handling the state of a promisable value.",
   "main": "dist/bundle.js",
   "module": "dist/index.js",
