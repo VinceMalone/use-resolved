@@ -25,6 +25,9 @@
     "url": "https://github.com/VinceMalone/use-resolved/issues"
   },
   "homepage": "https://github.com/VinceMalone/use-resolved/#readme",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
   "engines": {
     "node": ">=10.x",
     "yarn": "1.x"
